@@ -4,6 +4,8 @@
 **ShopVerse**, kullanıcıların ürünleri keşfedebileceği, kategorilere göre filtreleyebileceği ve 
 alışveriş sepetine ekleme gibi işlemleri gerçekleştirebileceği modern bir e-ticaret platformudur.  
 
+
+
 ## Özellikler  📌
 <br/>
 
@@ -13,6 +15,8 @@ alışveriş sepetine ekleme gibi işlemleri gerçekleştirebileceği modern bir
   - Sepetteki ürünlerin toplam adet ve fiyat hesaplaması.  
 - **Bildirimler**: Ürün ekleme ve silme işlemlerinde React-Toastify kullanılarak kullanıcıya bildirim gösterimi.  
 - **Loader (Yükleme Animasyonu)**: Uiverse kütüphanesi ile dinamik yükleme animasyonları.
+
+
 
   ## Kullanılan Teknolojiler  🛠️
   <br/>
@@ -26,10 +30,13 @@ alışveriş sepetine ekleme gibi işlemleri gerçekleştirebileceği modern bir
 - **React-Toastify**  
 - **Uiverse** 
 
+
+
  ## Ekran Görüntüsü
    <br/>
 
 
+![Shopverse](https://github.com/user-attachments/assets/161c0d63-02e1-4a15-9291-857de5909137)
 
 
 Saygılarımla......
